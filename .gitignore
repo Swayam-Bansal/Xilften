@@ -1,0 +1,18 @@
+# Xcode
+.DS_Store
+DerivedData/
+build/
+*.pbxuser
+*.mode1v3
+*.mode2v3
+xcuserdata/
+
+# Swift Package Manager
+.build/
+
+# Xcode playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+# User settings
+*.xcuserstate
